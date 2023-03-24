@@ -5,5 +5,13 @@
         "ghcr.io/guiyomh/features/goreleaser:0": {},
         "ghcr.io/guiyomh/features/golangci-lint:0": {}
     },
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "ms-vscode.makefile-tools",
+                "GitHub.copilot"
+            ]
+        }
+    },
     "remoteUser": "vscode"
 }

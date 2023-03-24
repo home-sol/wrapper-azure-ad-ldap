@@ -20,3 +20,7 @@ vendor/
 
 # Distribution
 dist/
+
+# ci
+coverage.html
+coverage.out
