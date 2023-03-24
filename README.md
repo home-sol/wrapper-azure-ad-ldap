@@ -1,2 +1,7 @@
 # wrapper-azure-ad-ldap
-Azure AD ldap wrapper
+
+LDAP protocol wrapper around Azure Active Directory (AD)
+
+
+
+
